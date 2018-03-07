@@ -1,0 +1,6 @@
+C:\Users\harjeet.sandhu\Desktop\Partner Forking\Testing\ShoppingCartDemo-Start\bin\Debug\ShoppingCartDemo.exe.config
+C:\Users\harjeet.sandhu\Desktop\Partner Forking\Testing\ShoppingCartDemo-Start\bin\Debug\ShoppingCartDemo.exe
+C:\Users\harjeet.sandhu\Desktop\Partner Forking\Testing\ShoppingCartDemo-Start\bin\Debug\ShoppingCartDemo.pdb
+C:\Users\harjeet.sandhu\Desktop\Partner Forking\Testing\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.csprojResolveAssemblyReference.cache
+C:\Users\harjeet.sandhu\Desktop\Partner Forking\Testing\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.exe
+C:\Users\harjeet.sandhu\Desktop\Partner Forking\Testing\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.pdb
